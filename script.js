@@ -28,6 +28,6 @@ function celebrate() {
     // 4. Optional: Animate the "Yes" button
     const yesBtn = document.getElementById('yesBtn');
     yesBtn.innerHTML = "Success! ✨";
-    yesBtn.style.transform = "scale(1.2)";
+    yesBtn.style.transform = "scale(1.5)";
     yesBtn.style.transition = "transform 0.5s ease";
 }
